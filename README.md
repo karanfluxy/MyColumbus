@@ -1,4 +1,4 @@
-# OPTIMIZED-TRAVEL-ROUTE-PLANNER
+# MyColumbus | OPTIMIZED-TRAVEL-ROUTE-PLANNER
 
 This project is designed to help travelers plan optimal travel routes between different locations using graph data structures. It represents locations as nodes and paths (roads or transportation routes) as edges. The application calculates the shortest path between two locations, considering factors such as distance, travel time, and cost.
 ![image](https://github.com/user-attachments/assets/b50c0f64-1f23-41e7-bd62-4c8404b2d4bc)
